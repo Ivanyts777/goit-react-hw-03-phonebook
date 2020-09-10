@@ -1,0 +1,15 @@
+.filter {
+  font-family: "Roboto";
+  margin: 10px;
+}
+
+.filter label {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.filter input {
+  font-family: "Roboto";
+  margin: 10px;
+  border: 1px solid #3498db;
+}

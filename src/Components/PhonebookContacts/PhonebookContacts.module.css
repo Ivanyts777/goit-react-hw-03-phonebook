@@ -1,0 +1,15 @@
+.contact__list {
+  list-style: none;
+}
+.contact__btn {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  font-size: 20px;
+  margin-left: 20px;
+}
+.contact__span {
+  font-size: 15px;
+  font-family: "Roboto";
+}
